@@ -1,0 +1,22 @@
+[
+  {
+    "email": "superuser@lambroisie.com",
+    "role": "admin"
+  },
+  {
+    "email": "root@admin.com",
+    "role": "admin"
+  },
+  {
+    "email": "test@admin.com",
+    "role": "admin"
+  },
+  {
+    "email": "thirukumar3210@gmail.com",
+    "role": "owner"
+  },
+  {
+    "email": "adnanmohammed7896@gmail.com",
+    "role": "owner"
+  }
+]
